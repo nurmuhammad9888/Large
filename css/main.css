@@ -1,0 +1,25 @@
+.blog-header-logo {
+  font-family: "Playfair Display", Georgia, "Times New Roman", Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 2.25rem;
+  font-weight: 600;
+}
+
+.row {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.bd-placeholder-img {
+  text-anchor: middle;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Playfair Display", Georgia, "Times New Roman", serif;
+}
+
+.blog-footer {
+  padding: 2.5rem 0;
+  color: #727272;
+  text-align: center;
+  background-color: #f9f9f9;
+  border-top: 0.05rem solid #e5e5e5;
+}/*# sourceMappingURL=main.css.map */
